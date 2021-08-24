@@ -1,1 +1,1 @@
-Caesar cipher for The Odin Project
+Caesar cipher from OdinProject
